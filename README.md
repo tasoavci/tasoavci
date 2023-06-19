@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tahsin Avci</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 👨‍💻 Here is my portfolio website [tasoavci.com](tasoavci.com)
-
 - 📫 How to reach me **tasoavci2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/tasoavci35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/tasoavci35/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +13,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasoavci&show_icons=true&locale=en&layout=compact" alt="tasoavci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasoavci&" alt="tasoavci" /></p>
+
 
