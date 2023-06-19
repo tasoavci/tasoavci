@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahsin Avci</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 👨‍💻 Here is my portfolio website [https://taso-react-website.pages.dev/](https://taso-react-website.pages.dev/)
+- 👨‍💻 Here is my portfolio website [tasoavci.com](tasoavci.com)
 
 - 📫 How to reach me **tasoavci2002@gmail.com**
 
